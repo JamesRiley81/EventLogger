@@ -1,0 +1,8 @@
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\bin\Debug\EventLogger.exe.config
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\bin\Debug\EventLogger.exe
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\bin\Debug\EventLogger.pdb
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\obj\Debug\EventLogger.csprojResolveAssemblyReference.cache
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\obj\Debug\EventLogger.csproj.CoreCompileInputs.cache
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\obj\Debug\EventLogger.exe
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\obj\Debug\EventLogger.pdb
+C:\Users\JamesR\source\repos\EventLogger\EventLogger\bin\Debug\FileDeletionLog.accdb
